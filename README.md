@@ -1,2 +1,3 @@
-# Springboard JSON Exercise
-It is to get familiarize with JSON files and complete the exercise asked in the assignment
+# Springboard
+This space will have all the exercise or Capstone projects performed by me. 
+It will be done to complete Springboard Data Science career track certification
