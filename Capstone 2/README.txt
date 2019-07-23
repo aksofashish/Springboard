@@ -39,12 +39,15 @@ Strip white space
 Remove Stop Words
 Noise Removal
 
+Vectorizor:
+=============
+TFIDF, CountVectorizer
 
-
-
-
-
-
-
-
- 
+Models:
+=============
+Cvec & LogisticRegression 
+TFIDF & LogisticRegression
+Pipeline : Cvec, TFIDF & LogisticRegression
+Pipeline : Cvec, TFIDF & Naive Bayes
+Pipeline Hyperparameter Tuning : Cvec, TFIDF & LogisticRegression 
+Convolutional Neural Network (CNN)
